@@ -8,3 +8,4 @@ Display current directory contents
 a script that creates a directory named my first directory in the /tmp/ directory
 Move the file betty
 Delete the file betty
+Bye bye My first directory
